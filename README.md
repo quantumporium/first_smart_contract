@@ -1,2 +1,12 @@
 # first smart contract
 my first smart contract
+
+my first smart contract
+0x73e754ba8E98bB88cbf3271ae04c9A8B3D9e1Aab
+> 0x73e754ba8e98bb88cbf3271ae04c9a8b3d9e1aab
+0x73e754ba8e98bb88cbf3271ae04c9a8b3d9e1aab
+
+https://ropsten.etherscan.io/tx/0x6fa52978d6d2d2323529c7f5e4482994be5006ec65e74f14b2b3606395262551
+
+https://ropsten.etherscan.io/tx/0x6fa52978d6d2d2323529c7f5e4482994be5006ec65e74f14b2b3606395262551
+
