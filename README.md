@@ -1,4 +1,7 @@
 # first smart contract
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[
+
 Smart contract allow enable the creation of the decentralised web also referred as 'web 3'. This allow to make app without the need of server or middlemen.
 
 Smart contract are the backend of Dapp (decentralized app). Dapp are usally made of a frontend, writtent with html and css, and a backend (this is the database for your frontend).
