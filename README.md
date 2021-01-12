@@ -36,4 +36,4 @@ contract metaCoin {
 }
 ```
 
-__You can also see the code [here]()__
+__You can also see the code [here](https://github.com/quantumporium/first_smart_contract/blob/main/first_smart_contract/metaCoin.sol)__
