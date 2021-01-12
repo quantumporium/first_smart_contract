@@ -1,6 +1,10 @@
 # first smart contract
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-[
+![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
+https://img.shields.io/badge/{FIRST}-{SECONDARY}-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white
+
+https://img.shields.io/badge/Solidity-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white
+
+
 
 Smart contract allow enable the creation of the decentralised web also referred as 'web 3'. This allow to make app without the need of server or middlemen.
 
