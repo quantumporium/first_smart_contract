@@ -13,3 +13,27 @@ https://ropsten.etherscan.io/tx/0x6fa52978d6d2d2323529c7f5e4482994be5006ec65e74f
 
 https://ropsten.etherscan.io/tx/0x6fa52978d6d2d2323529c7f5e4482994be5006ec65e74f14b2b3606395262551
 
+## source code
+```sol
+pragma solidity ^0.4.15;
+
+contract metaCoin {
+    mapping (address => uint) balences;
+
+
+    constructor() public {
+        balences[msg.sender] = 10000;
+    }
+
+    function sendCoin(address receiver, uint ammount) public returns (bool sufficient) {
+        if (balences[msg.sender] < ammount) return false;
+        balences[msg.sender] -= ammount;
+        balences[receiver] += ammount;
+        return true;
+
+    }
+
+}
+```
+
+__You can also see the code [here]()__
